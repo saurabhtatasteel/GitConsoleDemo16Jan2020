@@ -10,6 +10,7 @@ namespace GitDemoConsole16Jan2020
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Demo");
 		}
 	}
 }
