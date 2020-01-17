@@ -10,7 +10,7 @@ namespace GitDemoConsole16Jan2020
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Demo from master branch by another user");
+			Console.WriteLine("Demo from master branch by tatasteel user");
 		}
 	}
 }
