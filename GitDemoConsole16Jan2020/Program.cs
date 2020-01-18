@@ -10,7 +10,8 @@ namespace GitDemoConsole16Jan2020
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Demo from master branch by saurabhtatasteel at " + DateTime.Now.ToLongTimeString());
+			// Added by saurabhtatasteel
+			Console.WriteLine("Demo from master branch by saurabhtatasteel at  " + DateTime.Now.ToLongTimeString());
 		}
 	}
 }
