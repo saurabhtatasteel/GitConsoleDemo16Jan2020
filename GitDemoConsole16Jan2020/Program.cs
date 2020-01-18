@@ -12,7 +12,7 @@ namespace GitDemoConsole16Jan2020
 		{
 			
 			Console.WriteLine("Demo from master branch by saurabhtatasteel at new time " + DateTime.Now.ToLongTimeString());
-			// Added by saurabhtatasteel at 12:51 am
+			// Added by saurabhambastha at 12:51 am
 		}
 	}
 }
