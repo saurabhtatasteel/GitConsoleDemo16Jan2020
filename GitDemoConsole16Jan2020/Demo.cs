@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitDemoConsole16Jan2020
 {
-	class NewClassFile
+	class Demo
 	{
-		public void Test()
-		{
-			// Added new file testing
-		}
 	}
 }
