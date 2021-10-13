@@ -9,4 +9,8 @@ namespace GitDemoConsole16Jan2020
 	class Running
 	{
 	}
+	
+	class Running1
+	{
+	}
 }
