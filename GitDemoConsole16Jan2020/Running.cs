@@ -10,7 +10,7 @@ namespace GitDemoConsole16Jan2020
 	{
 	}
 	
-	class Running1
+	class Running2
 	{
 	}
 }
